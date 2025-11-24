@@ -3,7 +3,7 @@ import shutil
 import numpy as np
 import pandas as pd
 
-import sign_language_action_detection.library.utils as utils
+import sign_language_recognition.library.utils as utils
 
 from tensorflow.keras.utils import to_categorical
 

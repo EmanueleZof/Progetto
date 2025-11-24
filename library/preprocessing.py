@@ -4,7 +4,7 @@ import sys
 import numpy as np
 import mediapipe as mp
 
-import sign_language_action_detection.library.utils as utils
+import sign_language_recognition.library.utils as utils
 
 from tqdm import tqdm
 from matplotlib import pyplot as plt
